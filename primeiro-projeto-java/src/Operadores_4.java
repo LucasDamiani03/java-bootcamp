@@ -9,9 +9,9 @@ public class Operadores_4 {
 
         String resultado = "";
             if (a==b)
-                resultado = "verdadeiro";
+                resultado = "true";
             else
-                resultado = "falso";
+                resultado = "false";
             
         System.out.println(resultado);  
         
