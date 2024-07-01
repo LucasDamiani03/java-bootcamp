@@ -1,3 +1,4 @@
+package operadores;
 public class Operadores_3 {
     public static void main (String [] args) {    
         //declaring variables

@@ -1,3 +1,4 @@
+package operadores;
 public class Operadores_6 {
     public static void main(String[] args) {
 
@@ -5,7 +6,7 @@ public class Operadores_6 {
 
         boolean condition1 = true;
 
-        boolean condition2 = true;   //switch to see the results difference
+        boolean condition2 = true;   //switch to see the difference in results 
 
         if (condition1 && condition2) {
             System.out.println("Both condiitons are true!");
